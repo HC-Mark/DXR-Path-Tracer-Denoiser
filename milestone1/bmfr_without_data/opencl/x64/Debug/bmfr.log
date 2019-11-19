@@ -1,0 +1,1 @@
+﻿D:\Mark\2019_penn\GPU\final_Project\working\bmfr\opencl\bmfr.vcxproj(65,5): error MSB4019: The imported project "C:\BuildCustomizations\IntelOpenCL.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
